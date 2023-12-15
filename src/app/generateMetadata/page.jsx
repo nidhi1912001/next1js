@@ -5,8 +5,8 @@ const GenerateMetadata=()=>{
 }
 export const  generateMetadata=()=>{
   return{
-    title:"user page title",
-    description:"user page description"
+    title:"generatemetadata",
+    description:"metadata  description"
   }
 
 }
