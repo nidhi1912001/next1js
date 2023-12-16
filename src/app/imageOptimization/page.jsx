@@ -7,7 +7,7 @@ const ImageOptimization = () => {
 
   return (
     <>
-      <Image src={profile} />
+      <Image src={profile} height={300} width={200}/>
       <br />
       <br />
       <img src={profile.src}></img> {/* define height */}
